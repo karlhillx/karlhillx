@@ -19,6 +19,3 @@
 ---
 
 ⚡ *Fun fact*: They said Ozzy jokes don’t belong in retrospectives—but blockers still feel like his ’80s hangovers: loud, messy, and hanging around too long.
-
----
-
