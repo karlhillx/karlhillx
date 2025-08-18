@@ -1,7 +1,5 @@
 🚀 **Lead Software Engineer | Agile & Scrum Leader | Cloud-Native Architect**  
 
-Building scalable systems for NASA Earth Science missions. Driving Agile excellence and cloud-native solutions in aerospace software.  
-
 [![Certified ScrumMaster & Cloud Strategist](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Cloud%20Strategist-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlhillx/)
 
 ---
