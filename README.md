@@ -1,6 +1,6 @@
 🚀 **Lead Software Engineer | Agile & Scrum Leader | Cloud-Native Architect**  
 
-[![Certified ScrumMaster & Cloud Strategist](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Cloud%20Strategist-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlhillx/)
+[![Certified ScrumMaster & Cloud Strategist](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Cloud%20Strategist-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karlhillx/](https://www.scrum.org/user/1119181/assessments))
 
 ---
 
