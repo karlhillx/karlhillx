@@ -1,16 +1,49 @@
-## Hi there 👋
+```markdown
+# 👋 Hey, I’m Karl Hill  
 
-<!--
-**karlhillx/karlhillx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Lead Software Engineer | Scrum Master | Space Systems & Data**  
+Washington, D.C.  
 
-Here are some ideas to get you started:
+I build mission-critical software for NASA Earth Science projects, modernize legacy systems, and lead Agile teams to deliver reliable, real-world impact. With 25+ years of expertise and hands-on experience in DevSecOps, CI/CD pipelines, and cloud-native architectures, I bridge technical depth with leadership.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages & Frameworks**: Python, PHP (Laravel), JavaScript, Bash  
+- **Cloud & DevOps**: Docker, Kubernetes, GitLab CI/CD, AWS
+- **Agile & Leadership**: Certified ScrumMaster (CSM, PSM II), Agile Coaching, Kanban  
+- **Data & APIs**: REST, GraphQL, NASA Earth Science APIs, Real-time Satellite Data  
+
+---
+
+## 📌 Featured Projects
+🌟 *Pinned for quick look*  
+
+- [**The NASA GSFC Near Real-Time Flood Mapping System**](#)  
+  NASA’s Flood Mapping System delivers near-real-time satellite flood maps for disaster response teams worldwide. (https://floodmapping.gsfc.nasa.gov/).
+  Python, PHP/Laravel, MySQL, AWS (ECS2/S3)
+
+- More coming soon.
+
+---
+
+## 📊 GitHub at a Glance
+![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlhillx&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/khill)  
+- 🎶 [ORCID](https://orcid.org/0009-0002-6847-3368)
+
+## 📫 My Projects
+- 🛰️ [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/)
+- 🛰️ [NASA NRT](https://nrt3.modaps.eosdis.nasa.gov/)
+
+---
+
+⚡ **Fun Fact**: I once got told Ozzy Osbourne jokes weren’t appropriate for a Scrum retrospective. I disagreed. 🤘
+```
+
+---
