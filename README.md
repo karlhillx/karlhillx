@@ -1,6 +1,6 @@
 🚀 **Lead Software Engineer · Agile/Scrum Master · Cloud-Native Architect**
 
-[![Certified ScrumMaster & Product Owner](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Product%20Owner-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
+[![Certified ScrumMaster & Product Owner](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Product%20Owner-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/users/karl-hill)
 
 ---
 
