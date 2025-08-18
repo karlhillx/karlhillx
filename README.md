@@ -1,8 +1,7 @@
 ```markdown
-# 👋 Hey, I’m Karl Hill  
+# 👋 Hey, I’m Karl Hill from Washington, D.C. 
 
-🚀 **Lead Software Engineer | Scrum Master | Space Systems & Data**  
-Washington, D.C.  
+🚀 **Lead Software Engineer | Scrum Master | Space Systems & Data**   
 
 I build mission-critical software for NASA Earth Science projects, modernize legacy systems, and lead Agile teams to deliver reliable, real-world impact. With 25+ years of expertise and hands-on experience in DevSecOps, CI/CD pipelines, and cloud-native architectures, I bridge technical depth with leadership.  
 
@@ -17,13 +16,9 @@ I build mission-critical software for NASA Earth Science projects, modernize leg
 ---
 
 ## 📌 Featured Projects
-🌟 *Pinned for quick look*  
-
-- [**The NASA GSFC Near Real-Time Flood Mapping System**](#)  
+- [**The NASA GSFC Near Real-Time Flood Mapping System**](https://floodmapping.gsfc.nasa.gov/)  
   NASA’s Flood Mapping System delivers near-real-time satellite flood maps for disaster response teams worldwide. (https://floodmapping.gsfc.nasa.gov/).
   Python, PHP/Laravel, MySQL, AWS (ECS2/S3)
-
-- More coming soon.
 
 ---
 
@@ -39,11 +34,9 @@ I build mission-critical software for NASA Earth Science projects, modernize leg
 
 ## 📫 My Projects
 - 🛰️ [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/)
-- 🛰️ [NASA NRT](https://nrt3.modaps.eosdis.nasa.gov/)
+- 🌟 [NASA NRT](https://nrt3.modaps.eosdis.nasa.gov/)
 
 ---
 
-⚡ **Fun Fact**: I once got told Ozzy Osbourne jokes weren’t appropriate for a Scrum retrospective. I disagreed. 🤘
+⚡ Fun Fact: They told me Ozzy jokes didn’t belong in a retrospective. Strange — blockers feel exactly like his ’80s hangovers: loud, messy, and still lingering three sprints later.
 ```
-
----
