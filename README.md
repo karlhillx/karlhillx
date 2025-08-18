@@ -1,9 +1,11 @@
 ```markdown
 # 👋 Hey, I’m Karl Hill from Washington, D.C. 
 
-🚀 **Lead Software Engineer | Scrum Master | Space Systems & Data**   
+🚀 **Lead Aerospace Software Engineer | Scrum Master | Cloud-Native NASA Developer**   
 
-I build mission-critical software for NASA Earth Science projects, modernize legacy systems, and lead Agile teams to deliver reliable, real-world impact. With 25+ years of expertise and hands-on experience in DevSecOps, CI/CD pipelines, and cloud-native architectures, I bridge technical depth with leadership.  
+Elevating Earth Science missions through scalable, cloud-native systems. Driving Agile leadership in aerospace software delivery.  
+
+[![Certified ScrumMaster & Cloud Strategist](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Cloud%20Strategist-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlhillx/)
 
 ---
 
