@@ -1,6 +1,6 @@
 🚀 **Lead Software Engineer · Agile/Scrum Master · Cloud-Native Architect**
 
-[![Certified ScrumMaster & Product Owner](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Cloud%20Strategist-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karlhillx/](https://www.scrum.org/user/1119181/assessments))
+[![Certified ScrumMaster & Product Owner](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Product%20Owner-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karlhillx/](https://www.scrum.org/user/1119181/assessments))
 
 ---
 
@@ -15,18 +15,6 @@
 - [**NASA GSFC Flood Mapping System**](https://floodmapping.gsfc.nasa.gov/)  
   Architected for resilience and scale, this system provides near-real-time satellite flood mapping for global disaster response.  
   *(Python, PHP/Laravel, MySQL, AWS ECS/S3)* 
-
----
-
-### Featured NASA Contributions
-- Earth Observatory web systems—bringing NASA imagery and research to a global audience. 
-- LAADS DAAC and Direct Readout Laboratory (DRL): nurturing data ingestion, API infrastructure, and user engagement platforms. 
-- Leadership in Earth Science delivery systems for ESDS, DRL, and Hydrological Sciences.
-
----
-
-### GitHub Snapshot
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=compact&theme=tokyonight)
 
 ---
 
