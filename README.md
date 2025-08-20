@@ -13,7 +13,7 @@
 
 ### Tech Stack Overview  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Language Usage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karlhillx&theme=transparent)
 
 ---
 
