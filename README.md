@@ -15,7 +15,3 @@
 - [**NASA GSFC Flood Mapping System**](https://floodmapping.gsfc.nasa.gov/)  
   Architected for resilience and scale, this system provides near-real-time satellite flood mapping for global disaster response.  
   *(Python, PHP/Laravel, MySQL, AWS ECS/S3)* 
-
----
-
-⚡ *Fun fact*: They said Ozzy jokes don’t belong in retrospectives—but blockers still feel like his ’80s hangovers: loud, messy, and hanging around too long.
