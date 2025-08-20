@@ -11,6 +11,12 @@
 
 ---
 
+### Tech Stack Overview  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+
+---
+
 ### Highlight Project
 - [**NASA GSFC Flood Mapping System**](https://floodmapping.gsfc.nasa.gov/)  
   Architected for resilience and scale, this system provides near-real-time satellite flood mapping for global disaster response.  
