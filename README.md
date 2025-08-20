@@ -13,8 +13,7 @@
 
 ### Tech Stack Overview  
 
-![Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=pie&theme=transparent&hide_border=true)
-
+![Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=pie&theme=transparent&hide_border=true&langs_count=20)
 
 ---
 
