@@ -5,10 +5,9 @@
 ---
 
 ### Core Competencies
-- **Engineering Leadership**: 25+ years elevating software—from legacy modernization to distributed, resilient systems. 
-- **Agile Delivery**: Serving as ScrumMaster (CSM, PSM II), mentoring teams in Scrum/Kanban and continuous improvement.
-- **Cloud-Native Architecture**: Pioneering DevSecOps, CI/CD pipelines, containerized deployment with Docker, Kubernetes, and AWS across high-impact Earth Science domains.
-
+- **Engineering Leadership**: Leads teams delivering secure, resilient software at scale. Deep track record of modernizing platforms, reducing complexity, and driving architectural clarity across decades of tech evolution.
+- **Agile Delivery**: Certified ScrumMaster (CSM, PSM II) who drives predictable delivery, nurtures high-trust culture, and coaches teams toward flow efficiency, quality, and ownership.
+- **Cloud-Native & DevSecOps Architecture**: Designs containerized, automated delivery ecosystems using CI/CD, Docker, Kubernetes, and AWS that accelerate releases while increasing security, traceability, and uptime.
 ---
 
 ### Tech Stack Overview  
