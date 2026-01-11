@@ -1,22 +1,54 @@
-🚀 **Lead Software Engineer · Agile/Scrum Master · Cloud-Native Architect**
+🚀 **Staff / Lead Aerospace Software Engineer · DevSecOps & Platform Engineering · Scrum Master (PSM II, CSM)**  
+Building secure, cloud-native ground systems for space mission modeling & operations. Focused on scalable delivery, clean architecture, and “always-green” engineering workflows.
 
-[![Certified ScrumMaster & Product Owner](https://img.shields.io/badge/Certified%20ScrumMaster%20%26%20Product%20Owner-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
+[![PSM II](https://img.shields.io/badge/PSM%20II-Scrum.org-2ea44f?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
+[![CSM](https://img.shields.io/badge/CSM-Scrum%20Alliance-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
 
 ---
 
-### Core Competencies
-- **Engineering Leadership**: Leads teams delivering secure, resilient software at scale. Deep track record of modernizing platforms, reducing complexity, and driving architectural clarity across decades of tech evolution.
-- **Agile Delivery**: Certified ScrumMaster (CSM, PSM II) who drives predictable delivery, nurtures high-trust culture, and coaches teams toward flow efficiency, quality, and ownership.
-- **Cloud-Native & DevSecOps Architecture**: Designs containerized, automated delivery ecosystems using CI/CD, Docker, Kubernetes, and AWS that accelerate releases while increasing security, traceability, and uptime.
+## What I do
+- **Engineering leadership (IC + team enablement):** Drive architectural clarity, reduce complexity, and unblock teams through standards, templates, and pragmatic decision-making.
+- **Cloud-native delivery systems:** Containerized services, CI/CD automation, reliable releases, and security-by-default across multiple repos and environments.
+- **DevSecOps & quality culture:** Testing strategy, code-quality gates, reproducible builds, and maintainable developer workflows that scale with the team.
+
 ---
 
-### Tech Stack Overview  
+## Current focus
+- **Platform / developer productivity:** repo scaffolds, CI templates, semantic versioning + release automation, consistent lint/test/security gates.
+- **Distributed systems & messaging:** clean interface boundaries, adapter patterns, and “swap the backend without rewriting the app” design.
+- **Operational excellence:** observability, runtime resilience, traceability, and reliability under real constraints (networks, environments, data volume).
 
+---
+
+## Tooling I live in
+**Python** (pytest, tox/uv, Ruff, Bandit) · **Docker/Kubernetes/Helm** · **Linux** · **CI/CD** (Bitbucket Pipelines/GitLab style workflows)  
+**AWS** (container-first patterns) · Git workflows (protected main, PR hygiene, commit conventions, semantic-release)
+
+---
+
+## Tech stack snapshot
 ![Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=pie&theme=transparent&hide_border=true&langs_count=20&hide=html,css,scss)
 
 ---
 
-### Highlight Project
-- [**NASA GSFC Flood Mapping System**](https://floodmapping.gsfc.nasa.gov/)  
-  Architected for resilience and scale, this system provides near-real-time satellite flood mapping for global disaster response.  
-  *(Python, PHP/Laravel, MySQL, AWS ECS/S3)* 
+## Highlights
+- **Cloud-native modernization:** Moved legacy patterns to container-first delivery with repeatable pipelines and strong quality gates.
+- **Standards & documentation:** Built onboarding/dev guides, Definition of Done, testing strategy, and workflow conventions to scale a growing team.
+- **Messaging abstraction:** Designed a backend-agnostic messaging interface + adapters to reduce vendor lock-in and sustainment burden.
+
+---
+
+## Prior work (selected)
+- **NASA GSFC Flood Mapping System**  
+  Near-real-time satellite flood mapping for disaster response.  
+  *(Python, PHP/Laravel, MySQL, AWS ECS/S3)*  
+  https://floodmapping.gsfc.nasa.gov/
+
+---
+
+## Trajectory
+I’m aiming toward **Engineering Manager / Developer Productivity / Platform Leadership** roles—where I can combine delivery ownership, technical direction, and team growth.
+
+📍 Washington, D.C. area · Open to hybrid/remote (clearance/customer-site dependent)
+
+---
