@@ -1,54 +1,48 @@
-🚀 **Staff / Lead Aerospace Software Engineer · DevSecOps & Platform Engineering · Scrum Master (PSM II, CSM)**  
-Building secure, cloud-native ground systems for space mission modeling & operations. Focused on scalable delivery, clean architecture, and “always-green” engineering workflows.
+🚀 **Staff / Lead Aerospace Software Engineer** · **Platform/DevEx & DevSecOps** · **Scrum Master (PSM II, PSPO I)**  
+I build **secure, cloud-native ground systems** for mission modeling & operations—and the **platform workflows** that keep teams shipping safely in constrained environments.
 
-[![PSM II](https://img.shields.io/badge/PSM%20II-Scrum.org-2ea44f?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
-[![CSM](https://img.shields.io/badge/CSM-Scrum%20Alliance-blue?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
+Focus: **internal developer platforms, supply-chain integrity, and always-green CI**.
 
----
-
-## What I do
-- **Engineering leadership (IC + team enablement):** Drive architectural clarity, reduce complexity, and unblock teams through standards, templates, and pragmatic decision-making.
-- **Cloud-native delivery systems:** Containerized services, CI/CD automation, reliable releases, and security-by-default across multiple repos and environments.
-- **DevSecOps & quality culture:** Testing strategy, code-quality gates, reproducible builds, and maintainable developer workflows that scale with the team.
+[![PSM II](https://img.shields.io/badge/PSM%20II-Scrum.org-2ea44f?style=for-the-badge&logo=scrumdotorg&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
+[![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-2ea44f?style=for-the-badge&logo=scrumdotorg&logoColor=white)](https://www.scrum.org/user/1119181/assessments)
 
 ---
 
-## Current focus
-- **Platform / developer productivity:** repo scaffolds, CI templates, semantic versioning + release automation, consistent lint/test/security gates.
-- **Distributed systems & messaging:** clean interface boundaries, adapter patterns, and “swap the backend without rewriting the app” design.
-- **Operational excellence:** observability, runtime resilience, traceability, and reliability under real constraints (networks, environments, data volume).
+## What I build
+- **Platform/DevEx “paved roads”**: repo scaffolds, CI templates, policy-as-code, semantic versioning + release automation—so teams ship the same way across many repos.
+- **Cloud-native mission software**: container-first services, reliable deployments, clean interfaces, and maintainable architecture for long-lived systems.
+- **Security & quality by default**: reproducible builds, dependency hygiene, SBOM/provenance-minded pipelines, and fast feedback loops that scale.
 
 ---
 
-## Tooling I live in
-**Python** (pytest, tox/uv, Ruff, Bandit) · **Docker/Kubernetes/Helm** · **Linux** · **CI/CD** (Bitbucket Pipelines/GitLab style workflows)  
-**AWS** (container-first patterns) · Git workflows (protected main, PR hygiene, commit conventions, semantic-release)
+## Now
+- **Internal Developer Platform**: golden paths, “one command” local dev, standardized build/test/release, consistent PR gates.
+- **Distributed systems & messaging**: backend-agnostic interfaces + adapters (swap brokers without rewriting apps).
+- **Operational excellence**: observability, resilience, traceability (commit → artifact → image digest) under real constraints.
 
 ---
 
-## Tech stack snapshot
-![Languages Pie](https://github-readme-stats.vercel.app/api/top-langs/?username=karlhillx&layout=pie&theme=transparent&hide_border=true&langs_count=20&hide=html,css,scss)
+## Stack I ship with
+**Python** (uv, pytest, tox, Ruff, Bandit) · **Linux** · **Docker/Kubernetes/Helm**  
+**CI/CD** (Bitbucket Pipelines) · **AWS** (container-first patterns) · Git (protected main, PR hygiene, conventional commits/semantic-release)
 
 ---
 
 ## Highlights
-- **Cloud-native modernization:** Moved legacy patterns to container-first delivery with repeatable pipelines and strong quality gates.
-- **Standards & documentation:** Built onboarding/dev guides, Definition of Done, testing strategy, and workflow conventions to scale a growing team.
-- **Messaging abstraction:** Designed a backend-agnostic messaging interface + adapters to reduce vendor lock-in and sustainment burden.
+- **Container-first modernization**: standardized builds + repeatable delivery workflows across multiple repos/environments.
+- **Docs & standards that scale**: onboarding, Definition of Done, testing strategy, templates, and conventions that reduce team friction.
+- **Messaging abstraction**: clean broker interface + adapters to reduce lock-in and sustainment burden.
 
 ---
 
 ## Prior work (selected)
-- **NASA GSFC Flood Mapping System**  
-  Near-real-time satellite flood mapping for disaster response.  
+- **NASA GSFC Flood Mapping System** — near-real-time satellite flood mapping for disaster response  
   *(Python, PHP/Laravel, MySQL, AWS ECS/S3)*  
   https://floodmapping.gsfc.nasa.gov/
 
 ---
 
-## Trajectory
-I’m aiming toward **Engineering Manager / Developer Productivity / Platform Leadership** roles—where I can combine delivery ownership, technical direction, and team growth.
+## Next
+Targeting **Platform Engineering / Developer Productivity / Engineering Management** paths—owning delivery outcomes, technical direction, and team growth.
 
 📍 Washington, D.C. area · Open to hybrid/remote (clearance/customer-site dependent)
-
----
