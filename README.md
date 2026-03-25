@@ -2,9 +2,8 @@
 
 # 👋 Karl Hill
 
-**Staff / Lead Aerospace Software Engineer**
-
-*Platform Engineering · DevEx · DevSecOps*
+**Staff / Lead Aerospace Software Engineer**  
+**Platform Engineering · DevEx · DevSecOps · Mission Software**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khill)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karlhillx@gmail.com)
@@ -17,9 +16,9 @@
 
 ---
 
-### I build the roads that teams ship on
+### I build the systems behind the systems
 
-Platforms, pipelines, and guardrails so engineers build **secure, cloud-native mission systems**—faster and with confidence.
+I design the platforms, pipelines, and engineering guardrails that help teams deliver **secure, cloud-native aerospace and mission software** with greater speed, reliability, and confidence.
 
 ---
 
@@ -27,18 +26,18 @@ Platforms, pipelines, and guardrails so engineers build **secure, cloud-native m
 <tr>
 <td width="50%">
 
-#### 🛠️ What I Do
-- **Paved roads** — repo scaffolds, CI templates, release automation
-- **Cloud-native mission software** — container-first, maintainable architectures  
-- **Security & quality by default** — reproducible builds, supply-chain integrity, traceable artifacts
+#### 🛠️ What I Deliver
+- **Platform foundations** — paved-road tooling, repo standards, CI/CD templates, release automation
+- **Developer velocity** — faster local setup, quicker feedback loops, reduced friction across teams
+- **Built-in trust** — reproducible builds, supply-chain integrity, traceable delivery, quality gates by default
 
 </td>
 <td width="50%">
 
-#### 🎯 Where I'm Headed
-- **Platform Engineering** — golden paths, one-command local dev
-- **Engineering Management** — technical direction, delivery outcomes, team growth
-- **Developer Productivity** — shared tooling, fast feedback, always-green CI
+#### 🎯 Value I Create
+- **Higher delivery confidence** — more predictable releases and fewer surprises in integration
+- **Stronger engineering consistency** — shared standards across repos, pipelines, and environments
+- **Better team leverage** — tooling and workflows that let engineers spend more time shipping and less time fighting setup, drift, and process
 
 </td>
 </tr>
@@ -53,14 +52,14 @@ Platforms, pipelines, and guardrails so engineers build **secure, cloud-native m
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-*uv · pytest · Ruff · Helm · Bitbucket Pipelines*
+*Python · Kubernetes · Docker · AWS · Git · uv · pytest · Ruff · Helm · Bitbucket Pipelines*
 
 ---
 
-### ✨ Spotlight
+### ✨ Selected Impact
 
-> **[NASA GSFC Flood Mapping System](https://floodmapping.gsfc.nasa.gov/)** — Near-real-time satellite flood mapping for disaster response  
-> *Python · PHP/Laravel · MySQL · AWS ECS/S3*
+> **[NASA GSFC Flood Mapping System](https://floodmapping.gsfc.nasa.gov/)** — Helped deliver near-real-time satellite flood mapping that supported disaster response with cloud-based processing and scalable web delivery  
+> *Python · Laravel · MySQL · AWS ECS · S3*
 
 ---
 
