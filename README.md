@@ -12,7 +12,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -52,7 +51,7 @@ I design the platforms, pipelines, and engineering guardrails that help teams de
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-*Python · Kubernetes · Docker · AWS · Git · uv · pytest · Ruff · Helm · Bitbucket Pipelines*
+*Python · Kubernetes · Docker · AWS · Git · uv · pytest · Ruff · Bitbucket Pipelines*
 
 ---
 
