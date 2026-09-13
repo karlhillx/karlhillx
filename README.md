@@ -2,8 +2,8 @@
 
 # 👋 Karl Hill
 
-**Staff Aerospace Software Engineer · Platform Engineering · DevSecOps · Mission Software Delivery**
-**Cloud-Native Systems · Developer Experience · Release Engineering**
+**Staff Aerospace Software Engineer · Jacobs · Washington, DC · ex-NASA Goddard**
+**Mission Software · Developer Experience · Release Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/khill)
 [![Website](https://img.shields.io/badge/Website-karlhill.com-222222?style=flat-square\&logo=safari\&logoColor=white)](https://karlhill.com)
