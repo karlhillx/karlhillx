@@ -1,115 +1,104 @@
 <div align="center">
 
-# 👋 Karl Hill
+# Karl Hill
 
-**Staff Aerospace Software Engineer · Jacobs · Washington, DC · ex-NASA Goddard**
+**Staff Aerospace Software Engineer · Jacobs · Washington, DC**
 
-**Mission Software · Developer Experience · Release Governance**
+**Cross-Program Technical Leadership · Mission Software · Platform Engineering · DevSecOps**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/khill)
-[![Website](https://img.shields.io/badge/Website-karlhill.com-222222?style=flat-square\&logo=safari\&logoColor=white)](https://karlhill.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6847--3368-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0002-6847-3368)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:karlhillx@gmail.com)
+[![Website](https://img.shields.io/badge/karlhill.com-222222?style=flat-square&logo=safari&logoColor=white)](https://karlhill.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khill)
+[![Resume](https://img.shields.io/badge/Resume-View-555555?style=flat-square)](https://karlhill.com/resume)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--6847--3368-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-6847-3368)
 
----
+### I build mission software — and the engineering systems, standards, and cross-team practices that help teams ship it reliably.
 
-### I build mission software — and the engineering platforms, standards, and delivery systems teams need to ship it reliably.
-
-My work spans **aerospace software, cloud-native systems, platform engineering, DevSecOps, developer experience, and release engineering**, with an emphasis on turning complex software delivery into something **repeatable, secure, maintainable, and operationally reliable**.
+Nearly 30 years of hands-on software engineering across aerospace, NASA, national security, and enterprise systems.
 
 </div>
 
 ---
 
-## What I Work On
+## Current Focus
 
-* **Mission software** — aerospace, NASA, federal, and other high-assurance software environments
-* **Platform engineering & developer experience** — paved-road workflows, repository standards, reusable CI/CD, local development, and engineering automation
-* **DevSecOps & release engineering** — automated testing, quality gates, security scanning, packaging, versioning, release readiness, and traceability
-* **Cloud-native systems** — containerized services, distributed applications, deployment automation, and operational tooling
-* **Multi-environment delivery** — reducing integration risk across local, isolated, staged, and operational environments
-* **Technical leadership** — engineering direction, mentoring, delivery discipline, cross-team coordination, stakeholder alignment, and standards development
+I'm a **Staff Aerospace Software Engineer at Jacobs**, combining hands-on development with technical leadership across multiple aerospace mission-software efforts.
+
+My scope is increasingly **cross-program**: aligning engineering practices, integration approaches, developer workflows, release governance, and technical execution across team boundaries while staying close to the code.
+
+- **Mission software & distributed integration** — Python services, shared interfaces, messaging, orchestration, and multi-environment delivery
+- **Platform engineering & developer experience** — reusable CI/CD, repository standards, local workflows, dependency management, and engineering automation
+- **DevSecOps & software quality** — automated testing, static analysis, security gates, coverage, packaging, and release readiness
+- **Architecture & technical direction** — design review, interface decisions, engineering standards, cross-team problem solving, and integration strategy
+- **Engineering leadership** — mentoring, onboarding, delivery planning, partner-team coordination, and execution across organizational boundaries
+
+> Public descriptions intentionally omit sensitive program and operational details.
+
+---
+
+## Engineering Systems
+
+A large part of my work is improving the system around the software: shortening feedback loops, making quality visible, and reducing the difference between "works locally" and "ready to integrate."
+
+| Project | What it does |
+| --- | --- |
+| [**bb-run**](https://github.com/karlhillx/bb-run) | Runs Bitbucket Pipelines locally so developers can validate CI behavior before pushing. |
+| [**testrisk**](https://github.com/karlhillx/testrisk) | Ranks high-value Python test gaps using coverage, AST analysis, and git history. |
+| [**pipeguard**](https://github.com/karlhillx/pipeguard) | Policy-as-code validation for Bitbucket Pipelines and repository CI standards. |
+
+The common idea: **make the right engineering behavior fast, repeatable, and easy to verify.**
 
 ---
 
 ## Selected Impact
 
+### Aerospace Mission Software
+
+Lead technical execution for a core mission-software team working across roughly **20 repositories** and multiple deployment environments, while expanding technical leadership across additional aerospace efforts and partner teams.
+
+My work spans hands-on development, distributed integration, CI/CD and DevSecOps, automated testing, engineering standards, release governance, architecture decisions, mentoring, and cross-team delivery.
+
 ### NASA Earth Science
 
-Spent eight years supporting **NASA Goddard Space Flight Center Earth science software**, helping modernize scientific data systems and turn complex Earth-observation data into accessible operational and public-facing applications.
+Spent nearly eight years supporting **NASA Goddard Space Flight Center**, leading and contributing to Earth-science software including:
 
-Contributed to a **cloud-based global water and flood mapping platform** using satellite-derived Earth-observation data to support near-real-time flood analysis, mapping, and disaster-response workflows.
+- an AWS-based near-real-time global water and flood mapping platform
+- NASA Earth Observatory modernization
+- LAADS DAAC search, ordering, and near-real-time data access
+- containerized scientific workflows using CI/CD and Kubernetes
+- large-scale file, metadata, and scientific-data discovery systems
 
-`Python · Laravel · MySQL · AWS ECS · Amazon S3 · Earth Observation`
-
-Also contributed to modernization of **NASA Earth Observatory**, helping rebuild and support one of NASA's major public-facing Earth science platforms.
-
-### Platform & Delivery Engineering
-
-Modernize software delivery across multi-repository systems through:
-
-* reusable CI/CD pipelines and workflows
-* repository and pull-request standards
-* automated testing, quality, and security gates
-* dependency and packaging modernization
-* release automation, versioning, and governance
-* consistent Definition of Done practices
-* improved integration and release traceability
-* repeatable developer workflows across environments
-
-### Mission Software Delivery
-
-Help engineering teams move from **ad hoc, environment-specific delivery** toward repeatable and supportable software practices that can survive real integration constraints, isolated environments, multiple organizations, and operational deployment.
+The NASA Earth Observatory team received a **NASA Group Achievement Award**.
 
 ---
 
-## Publications
+## Publication
 
-### A Web-Based High-Resolution Global Water and Flood Mapping Platform
+### [A Web-Based High-Resolution Global Water and Flood Mapping Platform](https://doi.org/10.1144/gh2025-7)
 
 **Frederick S. Policelli · Albert J. Kettner · Karl M. Hill · Devon V. Maloney**
 
-Co-author of research describing the development of a web-based, high-resolution global water and flood mapping platform designed to make satellite-derived flood information more accessible through modern web and cloud technologies.
+Peer-reviewed work describing a NASA-supported system for delivering near-real-time, high-resolution satellite-derived water and flood products worldwide.
 
-The work brings together **Earth observation, large-scale geospatial data, cloud infrastructure, and software engineering** to support global flood mapping and analysis.
-
-[![ORCID](https://img.shields.io/badge/View%20Research-ORCID-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0002-6847-3368)
+**Contribution:** Software (Equal) · Writing – review & editing (Equal)
 
 ---
 
-## Engineering Stack
+## Technical Focus
 
-### Languages
+**Languages**  
+`Python` · `TypeScript` · `Java` · `Bash`
 
-`Python` · `TypeScript` · `Java` · `Bash` · `PHP`
+**Distributed Systems & Integration**  
+`RabbitMQ` · `ActiveMQ` · `REST` · `JSON` · service orchestration · shared interfaces
 
-### Cloud & Platform
+**Cloud & Containers**  
+`AWS` · `Docker` · `Kubernetes` · `Helm`
 
-`AWS` · `Docker` · `Kubernetes` · `Helm` · `OCI`
+**CI/CD & Developer Tooling**  
+`Bitbucket Pipelines` · `GitLab CI/CD` · `GitHub Actions` · `uv` · `pytest` · `Ruff` · `mypy` · `pre-commit`
 
-### CI/CD & DevSecOps
-
-`Bitbucket Pipelines` · `GitLab CI/CD` · `GitHub Actions` · automated testing · security scanning · quality gates · release automation
-
-### APIs & Integration
-
-`REST` · `JSON` · `OpenAPI / Swagger` · message-oriented systems · service integration patterns
-
-### Web & Application Platforms
-
-`Node.js` · `React` · `Vite` · `Tailwind CSS` · `Laravel`
-
-### Data & Search
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Elasticsearch` · `OpenSearch`
-
-### Engineering Tooling
-
-`Git` · `Jira` · `Confluence` · `VS Code` · `JetBrains IDEs`
-
-### AI-Enabled Engineering
-
-`Cursor` · `GitHub Copilot` · `Claude` · LLM-assisted development and engineering workflows
+**Quality & Security**  
+automated testing · coverage · static analysis · dependency auditing · secret detection · container scanning · release governance
 
 ---
 
@@ -117,50 +106,26 @@ The work brings together **Earth observation, large-scale geospatial data, cloud
 
 Good engineering teams need more than good code.
 
-They need **clear standards, fast feedback loops, visible tradeoffs, repeatable delivery, and effective platform support** so engineers can spend their time solving real problems instead of fighting tooling, environment drift, and inconsistent processes.
+They need **clear interfaces, fast feedback loops, shared standards, visible tradeoffs, reliable delivery, and tooling that reduces cognitive load**.
 
-My focus is helping teams move from:
+I care about building software that works — and building the engineering environment that makes it easier for other engineers to do the same.
 
-> **“It works locally.”**
-
-to:
-
-> **“We can build it, test it, secure it, release it, deploy it, and support it reliably.”**
+> **Build it. Test it. Secure it. Integrate it. Release it. Support it.**
 
 ---
 
-## Credentials
+## Background
 
-### Professional Scrum Master II — PSM II
+Before Jacobs, I spent nearly eight years supporting **NASA Goddard Space Flight Center** as a Lead Software Engineer. Earlier roles spanned healthcare, enterprise CRM, travel systems, telecommunications, and managed security, including principal-level engineering work.
 
-**Scrum.org**
-
-[![PSM II](https://img.shields.io/badge/PSM%20II-Scrum.org-2ea44f?style=flat-square)](https://www.scrum.org/user/1119181/assessments)
-
-### Professional Scrum Developer I — PSD I
-
-**Scrum.org**
-
-[![PSD I](https://img.shields.io/badge/PSD%20I-Scrum.org-2ea44f?style=flat-square)](https://www.scrum.org/user/1119181/assessments)
-
-### Professional Scrum Product Owner I — PSPO I
-
-**Scrum.org**
-
-[![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-2ea44f?style=flat-square)](https://www.scrum.org/user/1119181/assessments)
-
-### Certified ScrumMaster — CSM
-
-**Scrum Alliance**
-
-![CSM](https://img.shields.io/badge/CSM-Scrum%20Alliance-009FDA?style=flat-square)
+**Credentials:** PSM II · PSD I · PSPO I · SAFe Agilist · CSM
 
 ---
 
 <div align="center">
 
-📍 **Washington, D.C.**
+**Mission Software · Technical Leadership · Platform Engineering · Developer Experience · DevSecOps**
 
-**Aerospace Software · Platform Engineering · DevSecOps · Developer Experience · Cloud-Native Systems · Technical Leadership**
+[Website](https://karlhill.com) · [Writing](https://karlhill.com/blog) · [Resume](https://karlhill.com/resume) · [LinkedIn](https://linkedin.com/in/khill)
 
 </div>
